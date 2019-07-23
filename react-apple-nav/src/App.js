@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Route } from 'react-router-dom';
 
-import NavBar from './components/navbar'
+import NavBar from './components/navBar'
 
 function App() {
   return (
