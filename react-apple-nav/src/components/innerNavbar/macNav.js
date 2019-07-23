@@ -10,7 +10,7 @@ export default function MacNav(){
             <span>iMac  </span>
             <span>iMac Pro  </span>
             <span>Mac Pro  </span>
-            <span>Mac minHeight: ,  </span>
+            <span>Mac mini  </span>
             <span>Compare  </span>
             <span>Pro Display XDR  </span>
             <span>Accessories  </span>
