@@ -1,11 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom'
 
 export default function NavBar() {
 
     return (
         <div>
-            <span>Mac  </span>
-            <span>iPad  </span>
+            <Link to='/'><span>Home  </span></Link>
+            <Link to='/mac'><span>Mac  </span></Link>
+            <Link to='ipad'><span>iPad  </span></Link>
             <span>iPhone  </span>
             <span>Watch  </span>
             <span>TV  </span>
